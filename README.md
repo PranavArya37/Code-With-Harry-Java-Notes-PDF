@@ -7,4 +7,5 @@
  4. [Chapter 4](https://github.com/PranavArya37/Code-With-Harry-Java-Notes-PDF/tree/master/Chapter%204)
  5. [Chapter 5](https://github.com/PranavArya37/Code-With-Harry-Java-Notes-PDF/tree/master/Chapter%205)
  6. [Chapter 6](https://github.com/PranavArya37/Code-With-Harry-Java-Notes-PDF/tree/master/Chapter%206)
+ 7. [Chapter 7](https://github.com/PranavArya37/Code-With-Harry-Java-Notes-PDF/tree/master/Chapter%207)
  
